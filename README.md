@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sainyanhtay/sainyanhtay/blob/master/devcard.svg" width="400" alt="Sai's Dev Card"/></a>
+
 - 👋 Hi, I’m @sainyanhtay
 - 👀 I’m interested in software development very much.
 - 🌱 I’m currently learning Flutter
