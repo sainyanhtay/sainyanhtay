@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on everything with react native.
 - 📫 How to reach me? You can come through via here 👉 <a href="https://www.linkedin.com/in/sai-nyan-htay/">https://www.linkedin.com/in/sai-nyan-htay/</a>
 - 😄 Pronouns: Just Sai is fine 🫡
-- ⚡ Fun fact: You sure will know later... So many things 🕺🏼
+- ⚡ Fun fact: You sure will know later... So many things 🤣🕺🏼
   
 <!---
 sainyanhtay/sainyanhtay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
