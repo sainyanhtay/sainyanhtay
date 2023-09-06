@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 <a href="https://github.com/sainyanhtay"><img src="https://raw.githubusercontent.com/sainyanhtay/sainyanhtay.github.io/main/devcard.svg" width="400" alt="Sai's Dev Card"/></a>
 
 
