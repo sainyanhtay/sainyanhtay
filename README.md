@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sainyanhtay/sainyanhtay/blob/main/devcard.svg" width="400" alt="Sai's Dev Card"/></a>
+<a href="https://github.com/sainyanhtay"><img src="https://github.com/sainyanhtay/sainyanhtay.github.io/blob/main/devcard.svg" width="400" alt="Sai's Dev Card"/></a>
 
 - 👋 Hi, I’m @sainyanhtay
 - 👀 I’m interested in software development very much.
