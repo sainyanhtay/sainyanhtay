@@ -9,8 +9,5 @@
 - 😄 Pronouns: Just Sai is fine 🫡
 - ⚡ Fun fact: You sure will know later... So many things 🤣🕺🏼
   
-<!---
-sainyanhtay/sainyanhtay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- sainyanhtay/sainyanhtay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
 
