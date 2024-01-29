@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @sainyanhtay
-- 👀 I’m interested in software development very much.
+- 👀 I’m interested in software development very much,... I think 🤔.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on everything with react native.
 - 📫 How to reach me? You can come through via here 👉 <a href="https://www.linkedin.com/in/sai-nyan-htay/">https://www.linkedin.com/in/sai-nyan-htay/</a>
